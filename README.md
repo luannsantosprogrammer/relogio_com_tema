@@ -74,16 +74,4 @@ Um título estiloso: Relógio com tema
 
 Um botão redondo que muda a cor do site de branco para preto (e vice-versa)
 
-Um painel com a hora atualizada ao vivo e a data de hoje
-
-🧪 Demonstração
-Veja o projeto rodando:
-➡️ [Coloque aqui o link do seu GitHub Pages ou Replit]
-
-🛠️ Para rodar localmente
-Clone o repositório:
-
-bash
-Copiar
-Editar
-Abra o arquivo index.html em qualquer navegador.
+Um painel com a hora atualizada ao vivo e a data de hoje.
