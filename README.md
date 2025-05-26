@@ -86,5 +86,4 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/nome-do-repo.git
 Abra o arquivo index.html em qualquer navegador.
